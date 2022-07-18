@@ -1,0 +1,42 @@
+.text{
+  color:	#80ced6;
+  text-align:center;
+  font-size:200%;
+  display: flex;
+ align-items: center;
+
+ justify-content: center;
+
+
+}
+.t{
+  text-align:center;
+   margin: 06px ;
+   margin-left:11% ;
+   font-size: 125%;
+}
+.l{
+  line-height: 100%;
+}
+.t2{
+  color:	#1E90FF;
+  text-align:center;
+  font-size:200%;
+  display: flex;
+
+
+
+
+
+}
+.t3{
+  font-size:125%;
+}
+.all{
+  background-color: #6b5b95;
+}
+hr{
+border-top-color: #c1502e;
+margin-bottom: 25px;
+width: 30%;
+}
